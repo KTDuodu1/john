@@ -1,2 +1,2 @@
 # john
-< img src= "boston.jpg">
+![Boston](boston.jpg)
